@@ -1,3 +1,4 @@
 # PYTHON_FOR_DEVOPS
-
-READE AND CREATE BOOK ABOUTe PYTHON IN DEVOPS
+ THIS BOOK
+ 
+#https://learning.oreilly.com/library/view/python-for-devops/9781492057680/
